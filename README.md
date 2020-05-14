@@ -17,7 +17,7 @@ pip install scrapy
 scrapy runspider main.py -o players.json"
 ```
 In this case you can ignore "Execute" statement (comment it).
-####Or
+#### Or
 Run it with your preferred IDE.
 
 ## Contributing
