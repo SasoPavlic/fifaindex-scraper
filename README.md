@@ -1,7 +1,7 @@
 # fifaindex-scraper
 
 Python Scrapy for fifaindex.com players
-#####!!!This is a student project. I dont take any responsibility on how you will use it!!!
+##### This is a student project. I dont take any responsibility on how you will use it!!!
 
 ## Installation
 
